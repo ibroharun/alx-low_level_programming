@@ -7,11 +7,11 @@
  * Return: Always 0.
  */
 
-int _isalphabet(int c)
+int _isalpha(int c)
 
 {
 
-	if ((c > 'a' && c < 'z') || (c > 'A' && c < 'z'))
+	if ((c > 'a' && c < 'z') || (c > 'A' && c < 'Z'))
 	{
 		return (1);
 	}
@@ -20,4 +20,5 @@ int _isalphabet(int c)
 	{
 		return (0);
 	}
+
 }
