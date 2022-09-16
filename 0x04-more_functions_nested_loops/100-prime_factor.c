@@ -9,7 +9,7 @@ int main(void)
 {
 	long x, y;
 
-	x = 61285275143;
+	x = 612852475143;
 
 	for (y = 2; x > y; y++)
 	{
