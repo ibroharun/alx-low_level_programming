@@ -13,7 +13,7 @@ int main(void)
 	int  aleatorio;
 
 	srand(time(NULL));
-	checksum = 2722;
+	checksum = 2772;
 	contador = 0;
 
 	while (checksum > 122)
