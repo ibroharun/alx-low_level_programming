@@ -9,11 +9,11 @@
 int main(void)
 {
 	int contador;
-	int checksum;
-	int aleatorio;
+	int  checksum;
+	int  aleatorio;
 
 	srand(time(NULL));
-	checksum = 2772;
+	checksum = 2722;
 	contador = 0;
 
 	while (checksum > 122)
