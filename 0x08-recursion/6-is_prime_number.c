@@ -26,7 +26,7 @@ int prime_a(int a, int b)
  *
  * Return: Always 0.
  */
-int is _prime_number(int n)
+int is_prime_number(int n)
 {
 	return (prime_a(n, 2));
 }
