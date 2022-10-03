@@ -4,7 +4,7 @@
 /**
  * free_grid - use free function on previous grid
  * @grid: 2 dim. aray to free
- * @height: input heoght (size)
+ * @height: input height (size)
  * Return: free'd grid
  */
 void free_grid(int **grid, int height)
