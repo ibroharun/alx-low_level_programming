@@ -11,7 +11,7 @@
  */
 char *str_concat(char *s1, char *s2)
 {
-	unisgned int sized1 = 0, size2 = 0;
+	unisgned int size1 = 0, size2 = 0;
 	char *ptr, *ret;
 
 	ptr = s1;
