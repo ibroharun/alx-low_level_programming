@@ -5,7 +5,7 @@
 /**
  * get_op_func - Compares fucntion with pointer and returns the equal.
  * @s: points a char
- * Return: Rturns the function and the operator when equal
+ * Return: Returns the function and the operator when equal
  **/
 
 int (*get_op_func(char *s))(int, int)
