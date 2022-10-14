@@ -10,7 +10,7 @@ int op_add(int a, int b)
 }
 
 /**
- * op_sub - subtracts two numbers
+ * op_sub - Subtracts two numbers
  * @a: int 1
  * @b: int 2
  * Return: Returns result
