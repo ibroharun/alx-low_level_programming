@@ -10,7 +10,7 @@
  * @n: integer
  * @next: points to the next node
  *
- * Descfiption: singly linked list node structure
+ * Description: singly linked list node structure
  * for alx project
  */
 typrdef struct listint_s
