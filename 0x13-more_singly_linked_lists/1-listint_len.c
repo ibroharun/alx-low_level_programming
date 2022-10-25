@@ -13,5 +13,5 @@ size_t listint_len(const listint_t *h)
 	for (i = 0; h; h = (*h).next, i++)
 		;
 
-	return (i);
+return (i);
 }
